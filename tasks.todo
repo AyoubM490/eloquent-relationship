@@ -1,0 +1,7 @@
+Relationships:
+
++ One to One
+- One to many
+- Many to many
+- Has many through
+- Polymorphic relations
